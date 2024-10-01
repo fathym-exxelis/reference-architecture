@@ -1,0 +1,11 @@
+{
+  "scriptId": "314",
+  "url": "file:///C:/Fathym/source/github/exxelis/reference-architecture/tests/tests.deps.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 35, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}
